@@ -1,8 +1,8 @@
-# Ravikumar Daivajna - Senior Software Engineer
+# Ravikumar Daivajna - Senior Software Engineer 👨‍💻
 
 Hello there! 👋 I'm Ravikumar Daivajna, a Senior Software Engineer with 5 years of experience, specializing in building full-stack web and mobile applications in early-stage product-based startups.
 
-## Contact
+## Contact 📬
 
 - **Email:** rvdvjn@gmail.com
 - **Phone:** 8095130256
@@ -10,7 +10,7 @@ Hello there! 👋 I'm Ravikumar Daivajna, a Senior Software Engineer with 5 year
 - **LinkedIn:** [linkedin.com/in/ravikumarsd](https://www.linkedin.com/in/ravikumarsd)
 - **GitHub:** [github.com/Ravikumarsd](https://github.com/Ravikumarsd)
 
-## Work Experience
+## Work Experience 💼
 
 ### Founding Software Engineer (Tech Lead) - Epitome.ai (AIGLOBALNET PVT LTD)
 - **Duration:** 11/2021 - Present
@@ -35,7 +35,7 @@ Hello there! 👋 I'm Ravikumar Daivajna, a Senior Software Engineer with 5 year
 - Managed the release process for IOS/Android/Server.
 - Mentored interns and junior developers.
 
-## Personal Projects
+## Personal Projects 🚀
 
 1. **Ahana (Yoga Booking Website)**
    - Developed using React, Redux, React-router-dom, and MaterialUI.
@@ -46,27 +46,27 @@ Hello there! 👋 I'm Ravikumar Daivajna, a Senior Software Engineer with 5 year
 3. **Smart Brain (Face Detection Website)**
    - Developed using HTML, CSS, React, Nodejs, MongoDB, and deployed to Heroku.
 
-## Certificates
+## Certificates 🏆
 
 - **Cutshort Certified Javascript - Advanced**
   - [Certificate URL](https://cutshort.io/certificate/55940)
 
-## Education
+## Education 🎓
 
 - **B.E in Computer Science Engineering**
   - UBDTCE - Davanagere, Karnataka
   - Duration: 06/2014 - 06/2018
 
-## Languages
+## Languages 🌐
 
 - English: Full Professional Proficiency
 - Hindi: Full Professional Proficiency
 - Kannada: Native or Bilingual Proficiency
 
-## Interests
+## Interests ⚙️
 
 - Mobile Development
 - AI
 - Web3
 
-Feel free to reach out if you have any questions or if you're interested in collaboration!
+Feel free to reach out if you have any questions or if you're interested in collaboration! 🚀
